@@ -669,7 +669,7 @@ You can click on individual steps and get more details, such as the log output f
 A `stage` block lets you label certain sections of a build for use in visualizations.
 Other steps like `milestone` and `lock` can be used to control concurrency of multiple builds.
 
-Consult the [Docker demo](https://github.com/jenkinsci/workflow-aggregator-plugin/blob/master/demo/README.md) for an example of a Pipeline using multiple `stage`s.
+Consult the [Docker demo](https://github.com/jenkinsci/workflow-aggregator-plugin/blob/master/demo/README.md) for an example of a Pipeline using multiple `stages`.
 
 # Loading Script Text from Version Control
 
